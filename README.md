@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Computer Science student at the University of California, Irvine 
+
+* Languages: Python, JavaScript, TypeScript, C++
+* Frontend: React (with TypeScript), HTML, CSS
+* Backend: Django, Flask, Node.js
+
 <!--
 **Ryan11c/Ryan11c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
